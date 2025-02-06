@@ -40,27 +40,41 @@ Supports inventory management by highlighting KPIs such as Forecast Accuracy, Ne
  # Core Skills Acquired in Power BI through Hands-on Learning:
 
 	Demonstrated expertise in ETL (Extract, Transform, Load) processes for data integration.
+
 	Capable of generating custom Date Tables using Power Query for efficient time-based analysis.
+
 	Capable in deriving fiscal months and quarters to align with business reporting periods.
+
 	Proficient in establishing and managing data model relationships within Power BI’s Model View for seamless data interactions.
+
 	Able to augmenting existing data models by incorporating supplementary datasets for comprehensive analysis.
+
 	Competent in utilizing DAX (Data Analysis Expressions) to create calculated columns and tables for dynamic insights.
+
 	Adept at leveraging various Power BI visuals (e.g., bar charts, line graphs) to effectively communicate key business metrics.
+
 	Utilized MySQL databases for efficient data retrieval, transformation, and integration within Power BI.
+
 	Optimized report file size and performance using DAX Studio for streamlined data queries.
+
 	Implemented dynamic tooltips in Power BI to visualize trends and provide additional context to users.
 
 # Data Sources :
 
 •	MySQL Database: Essential facts and dimensions.
+
 •	Excel/CSV Files: Supplementary data such as targets and market share.
 
 # Tools Used :
 
 •	SQL: For data extraction and manipulation.
+
 •	Power BI Desktop: For dashboard creation and visualization.
+
 •	DAX Studio: For file size optimization.
+
 •	Excel/CSV: For data pre processing.
+
 •	Power Query: For data cleaning and transformation.
 
 
