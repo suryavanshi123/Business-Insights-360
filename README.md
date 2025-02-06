@@ -9,7 +9,7 @@ The Business Insights 360 project is developed for AtliQ Hardware, a rapidly gro
      
 •	Last Refreshed Date: Shows the last data when the database was refreshed.
 
-•	Values in Millions($): Values in the Dashboard are in Millions $.
+•	Values in Millions($): Values in the Dashboard are in Dollars & Millions. 
 
 •	Sales data loaded till mmm/yy: Sales data provided in the data base is up to the date "mmm/yy".
 
