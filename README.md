@@ -6,6 +6,9 @@ The Business Insights 360 project is developed for AtliQ Hardware, a rapidly gro
 .View objective:
   1. Created a Home Page for the user to navigate to different Views in the Dashboard.
   2. The Images have navigation to their respective Views.
+     
 .Last Refreshed Date: Shows the last data when the database was refreshed.
+
 .Values in Millions($): Values in the Dashboard are in Millions $.
+
 .Sales data loaded till mmm/yy: Sales data provided in the data base is up to the date "mmm/yy".
