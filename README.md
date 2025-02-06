@@ -18,6 +18,7 @@ To help AtliQ Hardware transition from static data practices, as their reliance 
 
 # Financial View :
 Analyzes the company’s financial performance by conducting in-depth assessments using key :
+
 •	KPI Visuals: KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
 •	Profit & Loss Statement : A summary of a company's revenues, expenses, and profits/losses over a given period of time.
@@ -33,3 +34,14 @@ Assesses customer performance through key metrics.
 •	Performance Matrix: Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
 
 •	Key Metrics by Products: Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
+
+# Marketing View :
+Provides a comprehensive view of
+
+•	Product Performance: Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
+
+•	Region/Market/Customer Performance: Performance of a Customer distributed by Key metrics. Can be filtered according to its Market or its Region.
+
+•	Performance Matrix with Dual Filters: Scatter Plot showing the distribution of Customers according to Gross Margin % or Net Profit % & Net Sales. Customers in the Top Right quadrant are very Profitable.
+
+•	Unit Economics: Insights about the Individual customer's breakdown of Key Metrics(COGS and Gross Margin) in a Donut Chart, and about the Net Profit made after Operational Expenses using a Waterfall chart.
