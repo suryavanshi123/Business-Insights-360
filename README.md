@@ -16,3 +16,15 @@ To help AtliQ Hardware transition from static data practices, as their reliance 
 
 •	Sales data loaded till mmm/yy: Sales data provided in the data base is up to the date "mmm/yy".
 
+# Financial View :
+Analyzes the company’s financial performance by conducting in-depth assessments using key :
+•	KPI Visuals: KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
+•	Profit & Loss Statement : A summary of a company's revenues, expenses, and profits/losses over a given period of time.
+•	Top/Bottom Customers by Net Sales: The two lower visuals give the insights about the Top & Bottom Customers and Products according to their Net Sales contribution.
+
+# Sales View :
+Assesses customer performance through key metrics.
+•	Customer Performance: Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
+•	Product Performance: Product Performance based on their Net Sales, Gross Margin and Gross Margin %.
+•	Performance Matrix: Scatter Plot showing the distribution of Customers according to Gross Margin % and Net Sales. Customers in the Top Right quadrant are having High Gross Margin % and High Net Sales.
+•	Key Metrics by Products: Donut Charts showing important metrics(Net Sales, Total Post Invoice Deductions, Pre Invoice Deductions, COGS, Gross Margin) Distribution for the specific fiscal year.
